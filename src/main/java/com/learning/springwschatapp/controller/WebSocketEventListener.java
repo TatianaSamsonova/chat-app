@@ -12,6 +12,9 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.socket.messaging.SessionConnectedEvent;
 import org.springframework.web.socket.messaging.SessionDisconnectEvent;
 
+/**
+ * Created by TatianaSamsonova on 7/12/2020
+ */
 @Component
 public class WebSocketEventListener {
 

@@ -7,6 +7,9 @@ import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.messaging.simp.SimpMessageHeaderAccessor;
 import org.springframework.stereotype.Controller;
 
+/**
+ * Created by TatianaSamsonova on 7/12/2020
+ */
 @Controller
 public class ChatController {
     //the message handling methods
